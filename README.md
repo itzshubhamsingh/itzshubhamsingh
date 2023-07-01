@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzshubhamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="itzshubhamsingh" /> </p>
 
-- 🌱 I’m currently learning **Backend Development in Java using Spring Boot**
+- 🌱 I’m currently learning **Backend Development in Java using Spring Boot.**
 
 - 📫 How to reach me **https://linktr.ee/shubham3786**
 
-- 🔭 I’m currently Studying in **Madan Mohan Malaviya University of Technology in Computer Science and Engineering Department**
+- 🔭 I’m currently Studying in **Madan Mohan Malaviya University of Technology** in **Computer Science and Engineering Department**.
 
-- 💬 Ask me about **Android Development, Java, Firebase**
+- 💬 Ask me about **Android Development**, **Java**, **Firebase**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
