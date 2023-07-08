@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently Studying in **Madan Mohan Malaviya University of Technology** in **Computer Science and Engineering Department**.
 
-- 💬 Ask me about **Android Development**, **Java**, **Firebase**.
+- 💬 Ask me about **Android Development**, **Java**, **Firebase**, **Data Structures and Algorithms**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
