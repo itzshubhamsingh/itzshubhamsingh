@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzshubhamsingh&label=Profile%20views&color=0e75b6&style=flat" alt="itzshubhamsingh" /> </p>
 
-- 🌱 I’m currently learning **Backend Development in Java using Spring Boot.**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **https://linktr.ee/shubham3786**
 
